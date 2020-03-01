@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/publication/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 23:45:28 +0800</lastBuildDate>
     <image>
-      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://teacherpeterpan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Zero-shot Ingredient Recognition by Multi-Relational Graph Convolutional Network</title>
+      <link>https://teacherpeterpan.github.io/publication/aaai-2020/</link>
+      <pubDate>Fri, 17 Jan 2020 23:45:28 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aaai-2020/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
