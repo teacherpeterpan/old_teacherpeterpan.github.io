@@ -63,6 +63,26 @@
   </url>
   
   <url>
+    <loc>https://teacherpeterpan.github.io/project/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/tags/question-generation/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/project/question-generation/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/tags/</loc>
+    <lastmod>2019-09-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teacherpeterpan.github.io/publication_types/3/</loc>
     <lastmod>2019-05-22T09:55:02+08:00</lastmod>
   </url>
@@ -211,10 +231,6 @@
   
   <url>
     <loc>https://teacherpeterpan.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://teacherpeterpan.github.io/tags/</loc>
   </url>
   
 </urlset>
