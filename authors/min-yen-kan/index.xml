@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min-Yen Kan | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/min-yen-kan/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/min-yen-kan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min-Yen Kan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 28 Feb 2019 09:56:10 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Min-Yen Kan</title>
+      <link>https://teacherpeterpan.github.io/authors/min-yen-kan/</link>
+    </image>
+    
+    <item>
+      <title>Resource Mention Extraction for MOOC Discussion Forums</title>
+      <link>https://teacherpeterpan.github.io/publication/ieee-access/</link>
+      <pubDate>Thu, 28 Feb 2019 09:56:10 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ieee-access/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

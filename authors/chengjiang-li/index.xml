@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengjiang Li | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/chengjiang-li/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/chengjiang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengjiang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2017 09:56:18 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Chengjiang Li</title>
+      <link>https://teacherpeterpan.github.io/authors/chengjiang-li/</link>
+    </image>
+    
+    <item>
+      <title>Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation</title>
+      <link>https://teacherpeterpan.github.io/publication/ijcnlp17/</link>
+      <pubDate>Fri, 01 Dec 2017 09:56:18 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ijcnlp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisite Relation Learning for Concepts in MOOCs</title>
+      <link>https://teacherpeterpan.github.io/publication/acl17/</link>
+      <pubDate>Sat, 01 Jul 2017 09:56:01 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tat-Seng Chua | Academic</title>
+    <title>Tat-Seng Chua | Liangming Pan</title>
     <link>https://teacherpeterpan.github.io/authors/tat-seng-chua/</link>
       <atom:link href="https://teacherpeterpan.github.io/authors/tat-seng-chua/index.xml" rel="self" type="application/rss+xml" />
     <description>Tat-Seng Chua</description>
@@ -17,6 +17,14 @@
       <link>https://teacherpeterpan.github.io/publication/aaai-2020/</link>
       <pubDate>Fri, 17 Jan 2020 23:45:28 +0800</pubDate>
       <guid>https://teacherpeterpan.github.io/publication/aaai-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Neural Question Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/qg-survey/</link>
+      <pubDate>Wed, 22 May 2019 09:55:02 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/qg-survey/</guid>
       <description></description>
     </item>
     

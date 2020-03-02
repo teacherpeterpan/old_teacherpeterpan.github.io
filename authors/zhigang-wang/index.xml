@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhigang Wang | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/zhigang-wang/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/zhigang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhigang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 09:56:34 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Zhigang Wang</title>
+      <link>https://teacherpeterpan.github.io/authors/zhigang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Domain Specific Cross-Lingual Knowledge Linking Based on Similarity Flooding</title>
+      <link>https://teacherpeterpan.github.io/publication/ksem16/</link>
+      <pubDate>Sat, 01 Oct 2016 09:56:34 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ksem16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting to Build a Large-Scale Cross-Lingual Ontology</title>
+      <link>https://teacherpeterpan.github.io/publication/ccks16/</link>
+      <pubDate>Fri, 16 Sep 2016 09:56:27 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ccks16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

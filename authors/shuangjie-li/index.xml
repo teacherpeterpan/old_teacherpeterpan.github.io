@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuangjie Li | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/shuangjie-li/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/shuangjie-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuangjie Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Sep 2016 09:56:27 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Shuangjie Li</title>
+      <link>https://teacherpeterpan.github.io/authors/shuangjie-li/</link>
+    </image>
+    
+    <item>
+      <title>Boosting to Build a Large-Scale Cross-Lingual Ontology</title>
+      <link>https://teacherpeterpan.github.io/publication/ccks16/</link>
+      <pubDate>Fri, 16 Sep 2016 09:56:27 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ccks16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

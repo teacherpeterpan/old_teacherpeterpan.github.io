@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Academic</title>
+    <title>Publications | Liangming Pan</title>
     <link>https://teacherpeterpan.github.io/publication/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
@@ -17,6 +17,70 @@
       <link>https://teacherpeterpan.github.io/publication/aaai-2020/</link>
       <pubDate>Fri, 17 Jan 2020 23:45:28 +0800</pubDate>
       <guid>https://teacherpeterpan.github.io/publication/aaai-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Advances in Neural Question Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/qg-survey/</link>
+      <pubDate>Wed, 22 May 2019 09:55:02 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/qg-survey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Mention Extraction for MOOC Discussion Forums</title>
+      <link>https://teacherpeterpan.github.io/publication/ieee-access/</link>
+      <pubDate>Thu, 28 Feb 2019 09:56:10 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ieee-access/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Predicting Concept-based Research Trends with Rhetorical Framing</title>
+      <link>https://teacherpeterpan.github.io/publication/ccks18/</link>
+      <pubDate>Wed, 01 Aug 2018 09:56:24 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ccks18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Course Concept Extraction in MOOCs via Embedding-Based Graph Propagation</title>
+      <link>https://teacherpeterpan.github.io/publication/ijcnlp17/</link>
+      <pubDate>Fri, 01 Dec 2017 09:56:18 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ijcnlp17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prerequisite Relation Learning for Concepts in MOOCs</title>
+      <link>https://teacherpeterpan.github.io/publication/acl17/</link>
+      <pubDate>Sat, 01 Jul 2017 09:56:01 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Specific Cross-Lingual Knowledge Linking Based on Similarity Flooding</title>
+      <link>https://teacherpeterpan.github.io/publication/ksem16/</link>
+      <pubDate>Sat, 01 Oct 2016 09:56:34 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ksem16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boosting to Build a Large-Scale Cross-Lingual Ontology</title>
+      <link>https://teacherpeterpan.github.io/publication/ccks16/</link>
+      <pubDate>Fri, 16 Sep 2016 09:56:27 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ccks16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RiMOM results for OAEI 2016</title>
+      <link>https://teacherpeterpan.github.io/publication/oaei16/</link>
+      <pubDate>Thu, 01 Sep 2016 09:56:44 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/oaei16/</guid>
       <description></description>
     </item>
     
