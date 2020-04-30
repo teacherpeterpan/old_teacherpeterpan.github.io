@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/tags/question-generation/</link>
       <atom:link href="https://teacherpeterpan.github.io/tags/question-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Question Generation</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 30 Apr 2020 08:56:01 +0800</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>Question Generation</title>
       <link>https://teacherpeterpan.github.io/tags/question-generation/</link>
     </image>
+    
+    <item>
+      <title>SG-Deep Question Generation</title>
+      <link>https://teacherpeterpan.github.io/project/sg-dqg/</link>
+      <pubDate>Thu, 30 Apr 2020 08:56:01 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/project/sg-dqg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Question Generation Paper List</title>
