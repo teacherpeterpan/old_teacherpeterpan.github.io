@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/authors/liangming-pan/</link>
       <atom:link href="https://teacherpeterpan.github.io/authors/liangming-pan/index.xml" rel="self" type="application/rss+xml" />
     <description>Liangming Pan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Apr 2020 12:05:27 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 15 Aug 2020 21:24:12 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>Liangming Pan</title>
       <link>https://teacherpeterpan.github.io/authors/liangming-pan/</link>
     </image>
+    
+    <item>
+      <title>Multi-modal Cooking Workflow Construction for Food Recipes</title>
+      <link>https://teacherpeterpan.github.io/publication/acmmm-2020/</link>
+      <pubDate>Sat, 15 Aug 2020 21:24:12 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acmmm-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Semantic Graphs for Generating Deep Questions</title>
