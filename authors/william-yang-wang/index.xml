@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>William Yang Wang | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/william-yang-wang/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/william-yang-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>William Yang Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 21:55:41 -0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>William Yang Wang</title>
+      <link>https://teacherpeterpan.github.io/authors/william-yang-wang/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Multi-hop Question Answering by Question Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/naacl21/</link>
+      <pubDate>Wed, 10 Mar 2021 21:55:41 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/naacl21/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
