@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://teacherpeterpan.github.io/</loc>
+    <lastmod>2021-03-29T15:55:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/project/</loc>
+    <lastmod>2021-03-29T15:55:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/tags/question-generation/</loc>
+    <lastmod>2021-03-29T15:55:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/tags/</loc>
+    <lastmod>2021-03-29T15:55:46-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teacherpeterpan.github.io/project/mqa-qg/</loc>
+    <lastmod>2021-03-29T15:55:46-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://teacherpeterpan.github.io/publication_types/1/</loc>
     <lastmod>2021-03-10T21:55:41-08:00</lastmod>
   </url>
@@ -14,11 +39,6 @@
   
   <url>
     <loc>https://teacherpeterpan.github.io/authors/liangming-pan/</loc>
-    <lastmod>2021-03-10T21:55:41-08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://teacherpeterpan.github.io/</loc>
     <lastmod>2021-03-10T21:55:41-08:00</lastmod>
   </url>
   
@@ -133,22 +153,7 @@
   </url>
   
   <url>
-    <loc>https://teacherpeterpan.github.io/project/</loc>
-    <lastmod>2020-04-30T08:56:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://teacherpeterpan.github.io/tags/question-generation/</loc>
-    <lastmod>2020-04-30T08:56:01+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://teacherpeterpan.github.io/project/sg-dqg/</loc>
-    <lastmod>2020-04-30T08:56:01+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://teacherpeterpan.github.io/tags/</loc>
     <lastmod>2020-04-30T08:56:01+08:00</lastmod>
   </url>
   
