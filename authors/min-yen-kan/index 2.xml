@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Min-Yen Kan | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/min-yen-kan/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/min-yen-kan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Min-Yen Kan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Nov 2020 21:36:09 -0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Min-Yen Kan</title>
+      <link>https://teacherpeterpan.github.io/authors/min-yen-kan/</link>
+    </image>
+    
+    <item>
+      <title>Exploring Question-Specific Rewards for Generating Deep Questions</title>
+      <link>https://teacherpeterpan.github.io/publication/coling20/</link>
+      <pubDate>Fri, 06 Nov 2020 21:36:09 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/coling20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-modal Cooking Workflow Construction for Food Recipes</title>
+      <link>https://teacherpeterpan.github.io/publication/acmmm-2020/</link>
+      <pubDate>Sat, 15 Aug 2020 21:24:12 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acmmm-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Graphs for Generating Deep Questions</title>
+      <link>https://teacherpeterpan.github.io/publication/acl20-qg/</link>
+      <pubDate>Tue, 28 Apr 2020 12:05:27 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl20-qg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Expertise Style Transfer: A New Task Towards Better Communcation between Experts and Laymen</title>
+      <link>https://teacherpeterpan.github.io/publication/acl20-style/</link>
+      <pubDate>Mon, 27 Apr 2020 09:16:44 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl20-style/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resource Mention Extraction for MOOC Discussion Forums</title>
+      <link>https://teacherpeterpan.github.io/publication/ieee-access/</link>
+      <pubDate>Thu, 28 Feb 2019 09:56:10 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/ieee-access/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

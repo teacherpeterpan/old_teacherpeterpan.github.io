@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/authors/wenhu-chen/</link>
       <atom:link href="https://teacherpeterpan.github.io/authors/wenhu-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenhu Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 10 Mar 2021 21:55:41 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 06:58:49 +0800</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>Wenhu Chen</title>
       <link>https://teacherpeterpan.github.io/authors/wenhu-chen/</link>
     </image>
+    
+    <item>
+      <title>Zero-shot Fact Verification by Claim Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/acl21/</link>
+      <pubDate>Sat, 29 May 2021 06:58:49 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl21/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Unsupervised Multi-hop Question Answering by Question Generation</title>
