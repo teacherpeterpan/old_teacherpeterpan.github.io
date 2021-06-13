@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fact Verification | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/tags/fact-verification/</link>
+      <atom:link href="https://teacherpeterpan.github.io/tags/fact-verification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Fact Verification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 13 Jun 2021 09:07:50 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Fact Verification</title>
+      <link>https://teacherpeterpan.github.io/tags/fact-verification/</link>
+    </image>
+    
+    <item>
+      <title>Zero-shot-Fact-Verification</title>
+      <link>https://teacherpeterpan.github.io/project/qacg/</link>
+      <pubDate>Sun, 13 Jun 2021 09:07:50 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/project/qacg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
