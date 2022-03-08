@@ -5,12 +5,28 @@
     <link>https://teacherpeterpan.github.io/publication/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 06:58:49 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 10:12:59 +0800</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://teacherpeterpan.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</title>
+      <link>https://teacherpeterpan.github.io/publication/acl22-kqapro/</link>
+      <pubDate>Tue, 08 Mar 2022 10:12:59 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl22-kqapro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Interpreting the Robustness of Neural NLP Models to Textual Perturbations</title>
+      <link>https://teacherpeterpan.github.io/publication/acl22-causal/</link>
+      <pubDate>Mon, 07 Mar 2022 10:40:06 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl22-causal/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-shot Fact Verification by Claim Generation</title>

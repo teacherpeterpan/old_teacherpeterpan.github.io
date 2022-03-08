@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hanwang Zhang | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/hanwang-zhang/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/hanwang-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hanwang Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 10:12:59 +0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Hanwang Zhang</title>
+      <link>https://teacherpeterpan.github.io/authors/hanwang-zhang/</link>
+    </image>
+    
+    <item>
+      <title>KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</title>
+      <link>https://teacherpeterpan.github.io/publication/acl22-kqapro/</link>
+      <pubDate>Tue, 08 Mar 2022 10:12:59 +0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl22-kqapro/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

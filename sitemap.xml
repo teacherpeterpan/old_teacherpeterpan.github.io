@@ -2,13 +2,67 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://teacherpeterpan.github.io/publication_types/1/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/bin-he/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/hanwang-zhang/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/jiaxin-shi/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/juanzi-li/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/acl22-kqapro/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/lei-hou/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/liangming-pan/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/lunyiu-nie/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication_types/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/shulin-cao/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/yutong-xiang/</loc>
+    <lastmod>2022-03-08T10:12:59+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/acl22-causal/</loc>
+    <lastmod>2022-03-07T10:40:06+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/min-yen-kan/</loc>
+    <lastmod>2022-03-07T10:40:06+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/samson-tan/</loc>
+    <lastmod>2022-03-07T10:40:06+08:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/yunxiang-zhang/</loc>
+    <lastmod>2022-03-07T10:40:06+08:00</lastmod>
+  </url><url>
     <loc>https://teacherpeterpan.github.io/tags/claim-generation/</loc>
     <lastmod>2021-06-13T09:07:50+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/tags/fact-verification/</loc>
-    <lastmod>2021-06-13T09:07:50+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/</loc>
     <lastmod>2021-06-13T09:07:50+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/project/</loc>
@@ -22,24 +76,6 @@
   </url><url>
     <loc>https://teacherpeterpan.github.io/project/qacg/</loc>
     <lastmod>2021-06-13T09:07:50+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/publication_types/1/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/liangming-pan/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/min-yen-kan/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/publication_types/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/publication/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/wenhan-xiong/</loc>
     <lastmod>2021-05-29T06:58:49+08:00</lastmod>
@@ -72,9 +108,6 @@
     <lastmod>2020-11-06T21:36:09-08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/publication/emnlp20/</loc>
-    <lastmod>2020-10-12T22:24:52-07:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/juanzi-li/</loc>
     <lastmod>2020-10-12T22:24:52-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/tat-seng-chua/</loc>
