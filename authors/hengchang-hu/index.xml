@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hengchang Hu | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/hengchang-hu/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/hengchang-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hengchang Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 14 Aug 2022 20:55:47 -0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
+      <title>Hengchang Hu</title>
+      <link>https://teacherpeterpan.github.io/authors/hengchang-hu/</link>
+    </image>
+    
+    <item>
+      <title>KHANQ: A Dataset for Generating Deep Questions in Education</title>
+      <link>https://teacherpeterpan.github.io/publication/coling22-khan/</link>
+      <pubDate>Sun, 14 Aug 2022 20:55:47 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/coling22-khan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

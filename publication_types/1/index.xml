@@ -5,12 +5,28 @@
     <link>https://teacherpeterpan.github.io/publication_types/1/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 08 Mar 2022 10:12:59 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 20:56:16 -0800</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_huec4a65be124e1f4b3e66578c37b00d53_210840_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://teacherpeterpan.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>CoHS-CQG: Context and History Selection for Conversational Question Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/coling22-do/</link>
+      <pubDate>Mon, 15 Aug 2022 20:56:16 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/coling22-do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KHANQ: A Dataset for Generating Deep Questions in Education</title>
+      <link>https://teacherpeterpan.github.io/publication/coling22-khan/</link>
+      <pubDate>Sun, 14 Aug 2022 20:55:47 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/coling22-khan/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>KQA Pro: A Dataset with Explicit Compositional Programs for Complex Question Answering over Knowledge Base</title>
