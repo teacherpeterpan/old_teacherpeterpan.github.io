@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tong Zhang | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/tong-zhang/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/tong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tong Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 20:58:15 -0800</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
+      <title>Tong Zhang</title>
+      <link>https://teacherpeterpan.github.io/authors/tong-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Hashtag-Guided Low-Resource Tweet Classification</title>
+      <link>https://teacherpeterpan.github.io/publication/www23/</link>
+      <pubDate>Sat, 25 Feb 2023 20:58:15 -0800</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/www23/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
