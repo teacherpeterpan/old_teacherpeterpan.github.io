@@ -2,25 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://teacherpeterpan.github.io/publication_types/1/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
+    <loc>https://teacherpeterpan.github.io/publication_types/3/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/alon-albalak/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/publication/www23/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/liangming-pan/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/logic-llm/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/publication_types/</loc>
-    <lastmod>2023-02-25T20:58:15-08:00</lastmod>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/publication/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/william-yang-wang/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/xinyi-wang/</loc>
+    <lastmod>2023-05-31T18:44:51-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/project/logic-lm/</loc>
+    <lastmod>2023-05-31T18:42:20-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/project/</loc>
+    <lastmod>2023-05-31T18:42:20-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/tags/fact-checking/</loc>
+    <lastmod>2023-05-31T17:49:36-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/project/program-fc/</loc>
+    <lastmod>2023-05-31T17:49:36-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/tags/</loc>
+    <lastmod>2023-05-31T17:49:36-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication_types/1/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/anh-tuan-luu/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/acl23-programfc/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/min-yen-kan/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/preslav-nakov/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/xiaobao-wu/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/authors/xinyuan-lu/</loc>
+    <lastmod>2023-05-31T17:35:01-07:00</lastmod>
+  </url><url>
+    <loc>https://teacherpeterpan.github.io/publication/www23/</loc>
     <lastmod>2023-02-25T20:58:15-08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/sedrick-scott-keh/</loc>
@@ -95,9 +143,6 @@
     <loc>https://teacherpeterpan.github.io/publication/acl22-causal/</loc>
     <lastmod>2022-03-07T10:40:06+08:00</lastmod>
   </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/min-yen-kan/</loc>
-    <lastmod>2022-03-07T10:40:06+08:00</lastmod>
-  </url><url>
     <loc>https://teacherpeterpan.github.io/authors/samson-tan/</loc>
     <lastmod>2022-03-07T10:40:06+08:00</lastmod>
   </url><url>
@@ -110,13 +155,7 @@
     <loc>https://teacherpeterpan.github.io/tags/fact-verification/</loc>
     <lastmod>2021-06-13T09:07:50+08:00</lastmod>
   </url><url>
-    <loc>https://teacherpeterpan.github.io/project/</loc>
-    <lastmod>2021-06-13T09:07:50+08:00</lastmod>
-  </url><url>
     <loc>https://teacherpeterpan.github.io/tags/question-generation/</loc>
-    <lastmod>2021-06-13T09:07:50+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/tags/</loc>
     <lastmod>2021-06-13T09:07:50+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/project/qacg/</loc>
@@ -126,9 +165,6 @@
     <lastmod>2021-05-29T06:58:49+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/wenhu-chen/</loc>
-    <lastmod>2021-05-29T06:58:49+08:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/authors/william-yang-wang/</loc>
     <lastmod>2021-05-29T06:58:49+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/publication/acl21/</loc>
@@ -214,9 +250,6 @@
   </url><url>
     <loc>https://teacherpeterpan.github.io/project/question-generation/</loc>
     <lastmod>2019-09-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://teacherpeterpan.github.io/publication_types/3/</loc>
-    <lastmod>2019-05-22T09:55:02+08:00</lastmod>
   </url><url>
     <loc>https://teacherpeterpan.github.io/authors/min-yan-kan/</loc>
     <lastmod>2019-05-22T09:55:02+08:00</lastmod>

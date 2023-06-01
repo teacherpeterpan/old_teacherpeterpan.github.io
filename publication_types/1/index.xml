@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/publication_types/1/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Feb 2023 20:58:15 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 17:35:01 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://teacherpeterpan.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Fact-Checking Complex Claims with Program-Guided Reasoning</title>
+      <link>https://teacherpeterpan.github.io/publication/acl23-programfc/</link>
+      <pubDate>Wed, 31 May 2023 17:35:01 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/acl23-programfc/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hashtag-Guided Low-Resource Tweet Classification</title>

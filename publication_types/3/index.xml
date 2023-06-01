@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/publication_types/3/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 22 May 2019 09:55:02 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 18:44:51 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
       <title>3</title>
       <link>https://teacherpeterpan.github.io/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning</title>
+      <link>https://teacherpeterpan.github.io/publication/logic-llm/</link>
+      <pubDate>Wed, 31 May 2023 18:44:51 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/logic-llm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Recent Advances in Neural Question Generation</title>
