@@ -5,12 +5,20 @@
     <link>https://teacherpeterpan.github.io/authors/yunxiang-zhang/</link>
       <atom:link href="https://teacherpeterpan.github.io/authors/yunxiang-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunxiang Zhang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 10:40:06 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 10:47:29 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
       <title>Yunxiang Zhang</title>
       <link>https://teacherpeterpan.github.io/authors/yunxiang-zhang/</link>
     </image>
+    
+    <item>
+      <title>Investigating Zero- and Few-shot Generalization in Fact Verification</title>
+      <link>https://teacherpeterpan.github.io/publication/aacl23-dafv/</link>
+      <pubDate>Sun, 01 Oct 2023 10:47:29 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aacl23-dafv/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Interpreting the Robustness of Neural NLP Models to Textual Perturbations</title>

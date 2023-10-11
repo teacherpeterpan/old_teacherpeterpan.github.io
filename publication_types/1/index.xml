@@ -5,12 +5,100 @@
     <link>https://teacherpeterpan.github.io/publication_types/1/</link>
       <atom:link href="https://teacherpeterpan.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 31 May 2023 17:35:01 -0700</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Oct 2023 18:44:51 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
       <title>1</title>
       <link>https://teacherpeterpan.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning</title>
+      <link>https://teacherpeterpan.github.io/publication/logic-llm/</link>
+      <pubDate>Wed, 11 Oct 2023 18:44:51 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/logic-llm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the Risk of Misinformation Pollution with Large Language Models</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-risk/</link>
+      <pubDate>Tue, 10 Oct 2023 10:46:15 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SCITAB: A Challenging Benchmark for Compositional Reasoning and Claim Verification on Scientific Tables</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-scitab/</link>
+      <pubDate>Mon, 09 Oct 2023 09:46:28 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-scitab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QACHECK: A Demonstration System for Question-Guided Multi-Hop Fact-Checking</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-demo/</link>
+      <pubDate>Sat, 07 Oct 2023 10:47:54 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>INSTRUCTSCORE: Explainable Text Generation Evaluation with Finegrained Feedback</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-instructscore/</link>
+      <pubDate>Fri, 06 Oct 2023 09:46:40 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-instructscore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MAF: Multi-Aspect Feedback for Improving Reasoning in Large Language Models</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-maf/</link>
+      <pubDate>Thu, 05 Oct 2023 08:46:33 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-maf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Doolittle: Benchmarks and Corpora for Academic Writing Formalization</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-dolittle/</link>
+      <pubDate>Wed, 04 Oct 2023 10:46:53 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-dolittle/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Topic Modeling with Contrastive Topic Evolution and Unassociated Word Sampling</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-topicmodel/</link>
+      <pubDate>Tue, 03 Oct 2023 10:47:03 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-topicmodel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking Open-domain Question Answering by Injecting Misinformation</title>
+      <link>https://teacherpeterpan.github.io/publication/aacl-contraqa/</link>
+      <pubDate>Mon, 02 Oct 2023 10:49:14 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aacl-contraqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating Zero- and Few-shot Generalization in Fact Verification</title>
+      <link>https://teacherpeterpan.github.io/publication/aacl23-dafv/</link>
+      <pubDate>Sun, 01 Oct 2023 10:47:29 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aacl23-dafv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FOLLOWUPQG: Towards Information-Seeking Follow-up Question Generation</title>
+      <link>https://teacherpeterpan.github.io/publication/aacl23-followupqg/</link>
+      <pubDate>Sun, 01 Oct 2023 08:47:41 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aacl23-followupqg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fact-Checking Complex Claims with Program-Guided Reasoning</title>

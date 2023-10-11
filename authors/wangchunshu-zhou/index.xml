@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wangchunshu Zhou | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/wangchunshu-zhou/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/wangchunshu-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wangchunshu Zhou</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 04 Oct 2023 10:46:53 -0700</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
+      <title>Wangchunshu Zhou</title>
+      <link>https://teacherpeterpan.github.io/authors/wangchunshu-zhou/</link>
+    </image>
+    
+    <item>
+      <title>Doolittle: Benchmarks and Corpora for Academic Writing Formalization</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-dolittle/</link>
+      <pubDate>Wed, 04 Oct 2023 10:46:53 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-dolittle/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

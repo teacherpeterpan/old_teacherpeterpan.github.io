@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thong Thanh Nguyen | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/thong-thanh-nguyen/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/thong-thanh-nguyen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thong Thanh Nguyen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 10:47:03 -0700</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
+      <title>Thong Thanh Nguyen</title>
+      <link>https://teacherpeterpan.github.io/authors/thong-thanh-nguyen/</link>
+    </image>
+    
+    <item>
+      <title>Dynamic Topic Modeling with Contrastive Topic Evolution and Unassociated Word Sampling</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-topicmodel/</link>
+      <pubDate>Tue, 03 Oct 2023 10:47:03 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-topicmodel/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yikang Pan* | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/yikang-pan/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/yikang-pan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yikang Pan*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 10:46:15 -0700</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
+      <title>Yikang Pan*</title>
+      <link>https://teacherpeterpan.github.io/authors/yikang-pan/</link>
+    </image>
+    
+    <item>
+      <title>On the Risk of Misinformation Pollution with Large Language Models</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-risk/</link>
+      <pubDate>Tue, 10 Oct 2023 10:46:15 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-risk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

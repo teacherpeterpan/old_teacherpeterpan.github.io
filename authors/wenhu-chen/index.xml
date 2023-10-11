@@ -5,12 +5,28 @@
     <link>https://teacherpeterpan.github.io/authors/wenhu-chen/</link>
       <atom:link href="https://teacherpeterpan.github.io/authors/wenhu-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenhu Chen</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 29 May 2021 06:58:49 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 10 Oct 2023 10:46:15 -0700</lastBuildDate>
     <image>
       <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
       <title>Wenhu Chen</title>
       <link>https://teacherpeterpan.github.io/authors/wenhu-chen/</link>
     </image>
+    
+    <item>
+      <title>On the Risk of Misinformation Pollution with Large Language Models</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-risk/</link>
+      <pubDate>Tue, 10 Oct 2023 10:46:15 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-risk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attacking Open-domain Question Answering by Injecting Misinformation</title>
+      <link>https://teacherpeterpan.github.io/publication/aacl-contraqa/</link>
+      <pubDate>Mon, 02 Oct 2023 10:49:14 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/aacl-contraqa/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Zero-shot Fact Verification by Claim Generation</title>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Danqing Wang | Liangming Pan</title>
+    <link>https://teacherpeterpan.github.io/authors/danqing-wang/</link>
+      <atom:link href="https://teacherpeterpan.github.io/authors/danqing-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Danqing Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 06 Oct 2023 09:46:40 -0700</lastBuildDate>
+    <image>
+      <url>https://teacherpeterpan.github.io/images/logo_hu05afc81e2b15d7d912b4a7827e68294f_100787_300x300_fit_lanczos_2.png</url>
+      <title>Danqing Wang</title>
+      <link>https://teacherpeterpan.github.io/authors/danqing-wang/</link>
+    </image>
+    
+    <item>
+      <title>INSTRUCTSCORE: Explainable Text Generation Evaluation with Finegrained Feedback</title>
+      <link>https://teacherpeterpan.github.io/publication/emnlp23-instructscore/</link>
+      <pubDate>Fri, 06 Oct 2023 09:46:40 -0700</pubDate>
+      <guid>https://teacherpeterpan.github.io/publication/emnlp23-instructscore/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
